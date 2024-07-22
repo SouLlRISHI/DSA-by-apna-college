@@ -1,0 +1,7 @@
+Type Conversion
+
+Conversion Happens when:
+a. Type compatible
+b. Destination Type > source Type
+
+Byte->Short->int->float->long->double
